@@ -9,5 +9,5 @@ node {
   }
   stage('print'){
     echo "Hi my name is john"
-}
+  }
 }
